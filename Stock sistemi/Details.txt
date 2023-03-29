@@ -1,0 +1,15 @@
+Emplooye Capability means how many products made by an one emplooye per day
+
+Program assums that warehouse emplooies are getting
+Paid as the minimum wage Which it is 282liras per day
+
+Assuming packing job will take one day in warehouse
+So Warehouse rent cost is rent/30
+
+Top limit work hour is 12 per day So in every 12 hours driver gets paid as one day
+ 
+Top speed limit for trucks on highroad is 90 Program assuming its speed as 80km/h
+
+Fuel consumtion of trucks as average Which it is 27liter for big and 20liter for medium trucks
+
+ 

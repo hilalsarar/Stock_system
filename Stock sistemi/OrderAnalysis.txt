@@ -1,0 +1,17 @@
+
+
+ In total there is 1 truck it makes 1 payment per day 
+
+ In every 960km they get paid for one day.(80km/h*12hour) 
+
+ Shipping cost is 1000km times 1 drivers is equals to 200liras
+
+ Fuel consumtion of trucks depends on how big are they.
+
+ For packaging of 400 products there should be 10 emplooye .Emplooye Packaging goes one day
+
+ Cost of rent of Warehouse is 3000/30
+
+ Total cost is 3463liras
+
+ Packaging and Shipment from Warehouse to Shop goes 2 days
